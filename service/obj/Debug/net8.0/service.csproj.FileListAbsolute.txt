@@ -1,0 +1,15 @@
+D:\ASPNET\pratice_jwt\service\bin\Debug\net8.0\service.deps.json
+D:\ASPNET\pratice_jwt\service\bin\Debug\net8.0\service.dll
+D:\ASPNET\pratice_jwt\service\bin\Debug\net8.0\service.pdb
+D:\ASPNET\pratice_jwt\service\bin\Debug\net8.0\repository.dll
+D:\ASPNET\pratice_jwt\service\bin\Debug\net8.0\repository.pdb
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.AssemblyInfoInputs.cache
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.AssemblyInfo.cs
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.csproj.CoreCompileInputs.cache
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.csproj.Up2Date
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.dll
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\refint\service.dll
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\service.pdb
+D:\ASPNET\pratice_jwt\service\obj\Debug\net8.0\ref\service.dll

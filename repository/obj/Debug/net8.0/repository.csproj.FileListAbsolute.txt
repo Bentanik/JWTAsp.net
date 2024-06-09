@@ -1,0 +1,14 @@
+D:\ASPNET\pratice_jwt\repository\bin\Debug\net8.0\repository.deps.json
+D:\ASPNET\pratice_jwt\repository\bin\Debug\net8.0\repository.runtimeconfig.json
+D:\ASPNET\pratice_jwt\repository\bin\Debug\net8.0\repository.dll
+D:\ASPNET\pratice_jwt\repository\bin\Debug\net8.0\repository.pdb
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.csproj.AssemblyReference.cache
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.AssemblyInfoInputs.cache
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.AssemblyInfo.cs
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.csproj.CoreCompileInputs.cache
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.dll
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\refint\repository.dll
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.pdb
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\repository.genruntimeconfig.cache
+D:\ASPNET\pratice_jwt\repository\obj\Debug\net8.0\ref\repository.dll
